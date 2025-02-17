@@ -1,0 +1,15 @@
+# 📂 Ignorer les dépendances
+node_modules/
+
+# 🛠️ Ignorer les fichiers spécifiques à l’IDE
+.vscode/
+.idea/
+*.sublime-workspace
+
+# 🔑 Ignorer les fichiers sensibles
+config.json
+
+# 📄 Ignorer les logs et fichiers temporaires
+*.log
+temp/
+
