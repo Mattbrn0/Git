@@ -4,3 +4,5 @@
 
 
 Mise à jour de la documentation pour expliquer l'installation des dépendances
+
+## Amélioration de la vitesse des images en réduisant leurs taille
